@@ -14,17 +14,17 @@
 Desarrollar e integrar en 6 meses una API que permita cumplir con la normativa costarricense de transacciones financieras digitales.
 #### Indicadores:
 
-- 99 % de integración de la API.
+- 70% de integración de la API.
 - 100 % de pruebas exitosas (QA).
-- Porcentaje de los indicadores se mide en el proceso, pero se quiere llegar a un 100 % en el plazo acordado, pero no dejando a un lado inconvenientes en el camino.
+- Porcentaje de los indicadores se mide en el proceso, pero se quiere llegar a un 100 % en el plazo acordado, pero no dejando a un lado inconvenientes en el camino y con base en los requerimientos y aspectos establecidos de cada pais.
 
 ### Guatemala: 
 
 En 4 meses, adaptar el backend para integrar sistemas de verificación de identidad digital ***(KnowYourCustomer)***.
 #### Indicadores:
 
-- 100 % de usuarios que pasan la verificación correctamente. Ya que se busca la eficiencia en la adaptacion e implementación del sistema.
-- Tiempo no tan rapido, pero a tiempo por las especificaciones o requisitos del pais.
+- 50 % de usuarios que pasan la verificación correctamente. Ya que se busca la eficiencia en la adaptacion e implementación del sistema.
+- Tiempo adecuado y porcentaje con base que se cuenta con una gran oportunidad de crecimiento, pero el poco desarollo de la tecnologia fintech y requermimientos de inversiones para este campo puede detener o dificultar el alza de ese indicador. 
 
 ### Panamá
 
